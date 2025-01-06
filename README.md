@@ -1,2 +1,2 @@
 # All-python-methods
-Every Python method made by myself (possible solutions for Snakethod.py)
+In this GitHub repository, I will recreate all Python methods, which I have programmed myself (this is a personal exercise for my own project). My goal is to better understand Python and help others. It's not just about learning how to code, but by programming all the existing Python methods, you'll truly understand how they work. This knowledge will help you remember and apply them in your daily work.
